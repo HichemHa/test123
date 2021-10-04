@@ -1,0 +1,42 @@
+.row-ps{
+
+}
+.col1-ps{
+
+}
+.container{
+    
+ 
+}
+.info{
+    margin: 20px;
+}
+
+.info h1 {
+    margin: 20px;
+    text-align: center;
+
+}
+.image-P img{
+    border: 3px solid black;
+}
+
+#prix{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+}
+svg{
+    fill: white;
+}
+#ps{clear: both;
+    content: '';
+    height: 1px;
+    background-color: #ddd;
+    margin-top: 40px;
+    font-size: 0.75rem;
+}
+a{
+    cursor: pointer;
+
+}

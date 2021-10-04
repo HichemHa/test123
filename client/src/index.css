@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+html{
+  left: 0;
+  right: 0;
+}
+@import '~mdb-ui-kit/css/mdb.min.css';
